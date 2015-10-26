@@ -1,0 +1,148 @@
+Partlist
+
+Exported from backboost.brd at 2015/10/26 21:33
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                             Package                           Library                                                            Position (mm)         Orientation
+
++3.3V                                      1X01                              pinhead                                                            (48.2583 33.0212375)  R0
+.GND     JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (39.1 4)              R90
+.SDA     JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (32.7 4)              R90
+.SDL     JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (29.5 4)              R90
+.VS      JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (35.9 4)              R90
+1                                          1X01NS-KIT                        SparkFun-Connectors                                                (10.16 27.94)         R0
+2                                          1X01NS-KIT                        SparkFun-Connectors                                                (12.7 27.94)          R0
+3                                          1X01NS-KIT                        SparkFun-Connectors                                                (15.24 27.94)         R0
+3.3V                                       WPAD-1-SQ-0.5MM                   PatternAgents-ProtoPads                                            (49.276 19.304)       R180
+4                                          1X01NS-KIT                        SparkFun-Connectors                                                (17.78 27.94)         R0
+5                                          1X01NS-KIT                        SparkFun-Connectors                                                (10.16 22.86)         R0
+6                                          1X01NS-KIT                        SparkFun-Connectors                                                (12.7 22.86)          R0
+7                                          1X01NS-KIT                        SparkFun-Connectors                                                (15.24 22.86)         R0
+8                                          1X01NS-KIT                        SparkFun-Connectors                                                (17.78 22.86)         R0
+A1                                         1X01NS-KIT                        SparkFun-Connectors                                                (48.26 27.94)         R0
+A2                                         1X01NS-KIT                        SparkFun-Connectors                                                (48.26 22.86)         R0
+A3                                         1X01NS-KIT                        SparkFun-Connectors                                                (22.86 27.94)         R0
+A4                                         1X01NS-KIT                        SparkFun-Connectors                                                (27.94 27.94)         R0
+A5                                         1X01NS-KIT                        SparkFun-Connectors                                                (25.4 27.94)          R0
+A6                                         1X01NS-KIT                        SparkFun-Connectors                                                (22.86 22.86)         R0
+A7                                         1X01NS-KIT                        SparkFun-Connectors                                                (25.4 22.86)          R0
+A8                                         1X01NS-KIT                        SparkFun-Connectors                                                (27.94 22.86)         R0
+B        Base                              1X01NS-KIT                        SparkFun-Connectors                                                (7.62 22.86)          R0
+B+                                         1X01                              pinhead                                                            (48.260590625 48.259990625) R180
+B-                                         1X01                              pinhead                                                            (45.71443125 48.25068125) R0
+B1       Base                              1X01NS-KIT                        SparkFun-Connectors                                                (2.54 22.86)          MR0
+C        COLLECTOR                         1X01NS-KIT                        SparkFun-Connectors                                                (2.54 25.4)           R0
+C1       10uf                              0603-CAP                          PatternAgents-ProtoPads                                            (38.1702 41.459203125) R180
+C2       10uf                              0603-CAP                          PatternAgents-ProtoPads                                            (46.74690625 42.79420625) R90
+C3       0.1uf                             0603-CAP                          PatternAgents-ProtoPads                                            (43.219734375 35.853228125) R180
+C4       COLLECTOR                         1X01NS-KIT                        SparkFun-Connectors                                                (7.62 25.4)           MR0
+C5       10uf                              0603-CAP                          PatternAgents-ProtoPads                                            (48.355340625 42.801771875) R90
+C6       0.1uf                             0603-CAP                          PatternAgents-ProtoPads                                            (44.1 13.1)           MR180
+C7       0.1uf                             0603-CAP                          PatternAgents-ProtoPads                                            (41.1 8.4)            MR90
+C8                                         CT7343                            adafruit                                                           (34.2 34.6)           R270
+C9       0.1uf                             0603-CAP                          PatternAgents-ProtoPads                                            (44.82 25.45)         MR90
+C10      0.1uf                             0603-CAP                          PatternAgents-ProtoPads                                            (20.52 26.79)         R90
+CDS      PHOTOCELLPTH                      PHOTOCELL                         SparkFun-Sensors                                                   (29.26 32.96)         MR270
+CURRENT  KF128-2P                          691101710002                      Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev15d (46.6 14.8)           R0
+D1       BLUE                              LED-0603                          SparkFun-LED                                                       (1.8 49.2)            R90
+D2       GREEN                             LED-0603                          SparkFun-LED                                                       (1.8 30.9)            R90
+DEBUG                                      10X06MTA                          con-amp                                                            (2.15 40.4)           R90
+DHT-22                                     AM2302                            RHT03_DHT-22_AM2302                                                (25.8 39.3)           MR270
+E        EMITTER                           1X01NS-KIT                        SparkFun-Connectors                                                (7.62 27.94)          R0
+E1       EMITTER                           1X01NS-KIT                        SparkFun-Connectors                                                (2.54 27.94)          MR0
+ESP13    ESP-WROOM-02FRONT-FACE            FRONT-FACE                        esp-wroom-02                                                       (12.628359375 40.034440625) MR270
+G                                          WPAD-1-SQ-0.5MM                   PatternAgents-ProtoPads                                            (43.942 0.762)        R180
+GND                                        1X01                              pinhead                                                            (45.7183 33.019659375) R0
+GND.     JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (42.38 25.25)         R90
+G_3V3                                      1X02_LOCK                         SparkFun-Connectors                                                (45.72 2.54)          R0
+IC1      TPS63000DRCR                      SON50P300X300X100-11N             Texas Instruments_By_element14_Batch_1                             (43.059146875 40.195178125) R270
+IC2      FSA3357K8X                        SOP50P310X90-8N                   Fairchild_By_element14_Batch_1                                     (27.686 46.609)       R90
+IC3      FSA3357K8X                        SOP50P310X90-8N                   Fairchild_By_element14_Batch_1                                     (13.6398 25.3492)     R0
+IC4      INA226VSSOP-10                    VSSOP-10                          TI_INA226_VSSOP                                                    (44.1 8.3)            MR0
+IC5      INA226VSSOP-10                    VSSOP-10                          TI_INA226_VSSOP                                                    (25.4 25.4)           R90
+ISENSE                                     JP1                               jumper                                                             (42 31.6)             R270
+JP1                                        1X01NS-KIT                        SparkFun-Connectors                                                (2.54 17.78)          R0
+JP2                                        1X06_LOCK                         SparkFun-Connectors                                                (7.62 15.24)          R0
+JP3                                        1X07_LOCK                         SparkFun-Connectors                                                (7.62 5.08)           R0
+JP4                                        1X01NS-KIT                        SparkFun-Connectors                                                (2.54 15.24)          R0
+JP5                                        1X01NS-KIT                        SparkFun-Connectors                                                (2.54 12.7)           R0
+JP6                                        1X01NS-KIT                        SparkFun-Connectors                                                (2.54 10.16)          R0
+JP7                                        1X01NS-KIT                        SparkFun-Connectors                                                (2.54 7.62)           R0
+JP8                                        1X01NS-KIT                        SparkFun-Connectors                                                (2.54 5.08)           R0
+JP9                                        1X01NS-KIT                        SparkFun-Connectors                                                (2.54 2.54)           R0
+JP10                                       1X01NS-KIT                        SparkFun-Connectors                                                (5.08 17.78)          R0
+JP11                                       1X01NS-KIT                        SparkFun-Connectors                                                (5.08 15.24)          R0
+JP12                                       1X01NS-KIT                        SparkFun-Connectors                                                (5.08 12.7)           R0
+JP13                                       1X01NS-KIT                        SparkFun-Connectors                                                (5.08 10.16)          R0
+JP14                                       1X01NS-KIT                        SparkFun-Connectors                                                (5.08 7.62)           R0
+JP15                                       1X01NS-KIT                        SparkFun-Connectors                                                (5.08 2.54)           R0
+JP16                                       1X01NS-KIT                        SparkFun-Connectors                                                (5.08 5.08)           R0
+JP17                                       1X01NS-KIT                        SparkFun-Connectors                                                (7.62 17.78)          R0
+JP18                                       1X01NS-KIT                        SparkFun-Connectors                                                (7.62 12.7)           R0
+JP19                                       1X01NS-KIT                        SparkFun-Connectors                                                (7.62 10.16)          R0
+JP20                                       1X01NS-KIT                        SparkFun-Connectors                                                (7.62 7.62)           R0
+JP21                                       1X01NS-KIT                        SparkFun-Connectors                                                (7.62 2.54)           R0
+JP22                                       1X01NS-KIT                        SparkFun-Connectors                                                (10.16 17.78)         R0
+JP23                                       1X01NS-KIT                        SparkFun-Connectors                                                (10.16 12.7)          R0
+JP24                                       1X01NS-KIT                        SparkFun-Connectors                                                (10.16 10.16)         R0
+JP25                                       1X01NS-KIT                        SparkFun-Connectors                                                (10.16 7.62)          R0
+JP26                                       1X01NS-KIT                        SparkFun-Connectors                                                (10.16 2.54)          R0
+JP27                                       1X01NS-KIT                        SparkFun-Connectors                                                (12.7 17.78)          R0
+JP28                                       1X01NS-KIT                        SparkFun-Connectors                                                (12.7 12.7)           R0
+JP29                                       1X01NS-KIT                        SparkFun-Connectors                                                (12.7 10.16)          R0
+JP30                                       1X01NS-KIT                        SparkFun-Connectors                                                (12.7 7.62)           R0
+JP31                                       1X01NS-KIT                        SparkFun-Connectors                                                (12.7 2.54)           R0
+JP32                                       1X01NS-KIT                        SparkFun-Connectors                                                (15.24 17.78)         R0
+JP33                                       1X01NS-KIT                        SparkFun-Connectors                                                (15.24 12.7)          R0
+JP34                                       1X01NS-KIT                        SparkFun-Connectors                                                (15.24 10.16)         R0
+JP35                                       1X01NS-KIT                        SparkFun-Connectors                                                (15.24 7.62)          R0
+JP36                                       1X01NS-KIT                        SparkFun-Connectors                                                (15.24 2.54)          R0
+JP37                                       1X01NS-KIT                        SparkFun-Connectors                                                (17.78 17.78)         R0
+JP41                                       1X01NS-KIT                        SparkFun-Connectors                                                (17.78 2.54)          R0
+JP42                                       1X01NS-KIT                        SparkFun-Connectors                                                (20.32 17.78)         R0
+JP46                                       1X01NS-KIT                        SparkFun-Connectors                                                (20.32 2.54)          R0
+JP47                                       1X01NS-KIT                        SparkFun-Connectors                                                (22.86 17.78)         R0
+JP52                                       1X01NS-KIT                        SparkFun-Connectors                                                (22.86 2.54)          R0
+L1       2.2uH NR6028T220M                 VLF4012A                          SparkFun-Passives                                                  (43.07266875 45.390453125) R0
+PT1      2PT_GND_TIE                       2PT_GND_TIE                       SparkFun-Passives                                                  (44.07 34.43)         MR0
+R1       1M                                0603-RES                          PatternAgents-ProtoPads                                            (47.222846875 37.8275875) R0
+R2       200k                              0603-RES                          PatternAgents-ProtoPads                                            (47.215925 35.837990625) R180
+R3       100                               0603-RES                          PatternAgents-ProtoPads                                            (38.24965 38.85278125) R180
+R4       5.6k                              0603-RES                          PatternAgents-ProtoPads                                            (31.115 47.9425)      R0
+R5       1k                                0603-RES                          PatternAgents-ProtoPads                                            (31.115 45.4025)      R0
+R6       6.2k                              0603-RES                          PatternAgents-ProtoPads                                            (28.2 37.5)           R270
+R7       2.7k                              0603-RES                          PatternAgents-ProtoPads                                            (30.9 37.5)           R90
+R8       12k                               0603-RES                          PatternAgents-ProtoPads                                            (11.5 40.5)           R180
+R9       12k                               0603-RES                          PatternAgents-ProtoPads                                            (11.5 42.6)           R0
+R10      470                               0603-RES                          PatternAgents-ProtoPads                                            (5.1 30.9)            R0
+R11      470                               0603-RES                          PatternAgents-ProtoPads                                            (5.1 49.2)            R0
+R12      12k                               0603-RES                          PatternAgents-ProtoPads                                            (8.4 49.2)            R180
+R13      12k                               0603-RES                          PatternAgents-ProtoPads                                            (38.24 36.48)         R0
+R14      5.6k                              0603-RES                          PatternAgents-ProtoPads                                            (24.3275 47.903)      R0
+R15      1k                                0603-RES                          PatternAgents-ProtoPads                                            (24.3775 45.593)      R0
+R16      Sense/Shunt Resistor              R2512W                            adafruit                                                           (44 17.7)             MR180
+R17      4.7                               0603-RES                          PatternAgents-ProtoPads                                            (48.6 15.2)           MR270
+R18      4.7                               0603-RES                          PatternAgents-ProtoPads                                            (39.6 15.2)           MR270
+R19      12k                               0603-RES                          PatternAgents-ProtoPads                                            (21 41.9)             R90
+R20      12k                               0603-RES                          PatternAgents-ProtoPads                                            (18.5 41.9)           R90
+R21      12k                               0603-RES                          PatternAgents-ProtoPads                                            (17.9 48)             R0
+R22      Sense/Shunt Resistor              R2512W                            adafruit                                                           (45.72 25.4)          R90
+R23      4.7                               0603-RES                          PatternAgents-ProtoPads                                            (45.72 27.94)         MR0
+R24      4.7                               0603-RES                          PatternAgents-ProtoPads                                            (45.72 22.86)         MR0
+RST      DTSM-3                            DTSM-3                            switch-tact                                                        (29.32 40.28)         MR270
+SDA.     JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (34.78 25.35)         R90
+SDL.     JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (30.88 25.3)          R90
+T1       S8050                             SOT-23                            zetex                                                              (7.8 41.7)            R270
+T2       S8050                             SOT-23                            zetex                                                              (15.2 41.7)           R90
+T3       S8050                             SOT-23                            zetex                                                              (4.718 25.4064)       R270
+T4       S8050                             SOT-23                            zetex                                                              (5.2832 25.4254)      MR270
+TOP-L                                      MA06-1                            con-lstb                                                           (13.97 45.72)         R0
+TOP-R                                      MA07-1                            con-lstb                                                           (15.24 35.56)         R0
+U$12     LITHIUM-BATTERY-CHARGING-BOARDSMD SMD                               18650                                                              (44.525 40.975)       MR0
+VIN                                        1X01                              pinhead                                                            (40.641240625 48.258559375) R0
+VOLTAGE  KF128-2P                          691101710002                      Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev15d (35.2 14.8)           R0
+VS.      JUMPER-PAD-3-NOFULL_BOX_SILK      PAD-JUMPER-3-NO_YES_SILK_FULL_BOX SparkFun-Passives                                                  (38.61 25.3)          R90
+VSS                                        1X01                              pinhead                                                            (38.0987 48.257921875) R0
